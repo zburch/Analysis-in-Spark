@@ -1,0 +1,10 @@
+Graph-Based Algorithms for Boolean Function Manipulation	8.762073691602938E-6	2016
+A method for obtaining digital signatures and public-key cryptosystems	8.363482843323381E-6	2223
+Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment	5.666890096920886E-6	1646
+The Anatomy of the Grid: Enabling Scalable Virtual Organizations	5.602922205076028E-6	1348
+A relational model of data for large shared data banks	5.436941957843229E-6	1526
+Data clustering: a review	4.85717095604999E-6	1701
+Fast Algorithms for Mining Association Rules in Large Databases	4.175459949842419E-6	3339
+Tangible bits: towards seamless interfaces between people, bits and atoms	4.144746368206766E-6	1055
+Adaptive Hypermedia	3.884717533307513E-6	599
+Attention, intentions, and the structure of discourse	3.870860355362052E-6	579
